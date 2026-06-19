@@ -1,0 +1,8 @@
+target/
+.idea/
+.vscode/
+*.class
+*.iml
+.DS_Store
+src/main/resources/static/uploads/
+src/main/resources/application.properties
